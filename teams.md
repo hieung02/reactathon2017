@@ -17,3 +17,11 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# Starbucks Hackers
+### Less than 160 Characters describing what we're building. Include external links here if desired
+* Teammates: Hieu Nguyen (@hieu), Wesley Huang (@wesleyhuang23), Henry Qi (@henrysqi), Brian Muse (@musebc)
+* Seeking Teammates: No
+* [Project URL](https://github.com/starbucks-hackers/assist-now)
+
+*** (be sure to include these three stars at the bottom for a horizontal rule)
